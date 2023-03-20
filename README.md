@@ -1,16 +1,20 @@
-### Hi there 👋
+<!-- <h6>Zuldom/README.md</h6>
 
-<!--
-**Zuldom/Zuldom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Sang Do Kim / @Zuldom</h2>
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangdo111369@gmail.com)](mailto:sangdo111369@gmail.com)
 
-- 🔭 I’m currently working on ...
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sangdo1113)]([https://github.com/sangdo1113/velog-readme-stats](https://velog.io/@sangdo1113))
+
+
+[![Zuldom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuldom)](https://github.com/Zuldom/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuldom&langs_count=10&layout=compact)]()
+
+
+
+
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ -->
