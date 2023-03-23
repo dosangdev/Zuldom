@@ -4,8 +4,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangdo111369@gmail.com)](mailto:sangdo111369@gmail.com)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sangdo1113)]([https://github.com/sangdo1113/velog-readme-stats](https://velog.io/@sangdo1113))
-
 
 [![Zuldom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuldom)](https://github.com/Zuldom/github-readme-stats)
 
